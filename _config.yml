@@ -222,6 +222,12 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  quantitative_projects:
+    output: true
+    permalink: /:collection/:path/
+  qualitative_projects:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -269,6 +275,24 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+   # _quantitative_projects
+  - scope:
+      path: ""
+      type: quantitative_projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _qualitative_projects
+  - scope:
+      path: ""
+      type: qualitative_projects
     values:
       layout: single
       author_profile: true
