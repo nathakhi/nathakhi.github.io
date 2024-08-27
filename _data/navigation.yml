@@ -25,7 +25,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    URL: "/files/Resume_Akhi Nath_1.2.pdf"
+    url: /files/Resume_Akhi Nath_1.2.pdf
     
   #- title: "Guide"
   #  url: /markdown/
