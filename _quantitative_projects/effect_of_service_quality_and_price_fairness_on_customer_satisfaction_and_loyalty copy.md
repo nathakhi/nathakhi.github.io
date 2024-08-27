@@ -1,6 +1,6 @@
 ---
 title: "Effect of Service Quality and Price Fairness on Customer Satisfaction and Loyalty: Moderating Role of Gender and Occupation"
-excerpt: "This study investigates the impact of service quality and price fairness on customer loyalty through the mediating role of customer satisfaction. It also explores how socio-demographic factors, such as gender and occupation, influence these relationships. Using secondary data and various statistical analyses, the study confirms that both service quality and price fairness significantly affect customer satisfaction, which in turn impacts customer loyalty. The findings provide valuable insights for hospitality managers to develop strategies for enhancing customer loyalty.<br/><img src='/images/500x300.png'>"
+excerpt: "This study investigates the impact of service quality and price fairness on customer loyalty through the mediating role of customer satisfaction. It also explores how socio-demographic factors, such as gender and occupation, influence these relationships. Using secondary data and various statistical analyses, the study confirms that both service quality and price fairness significantly affect customer satisfaction, which in turn impacts customer loyalty. The findings provide valuable insights for hospitality managers to develop strategies for enhancing customer loyalty.<br/>"
 collection: quantitative_projects
 ---
 
