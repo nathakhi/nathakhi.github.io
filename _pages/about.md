@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome"
+# title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 **About Me**  
-I am a data-driven professional with a passion for using research and analytics to solve complex problems and improve systems. I hold a Bachelor of Medicine and Surgery (MBBS, equivalent to MD in Canada) and an MSc in Management from <b>Toronto Metropolitan University</b> (formerly Ryerson University)  with a focus on health services management.
+I am a data-driven professional with a passion for using research and analytics to solve complex problems and improve systems. I hold a Bachelor of Medicine and Surgery (MBBS, equivalent to MD in Canada) and an MSc in Management from <b>Toronto Metropolitan University</b> (formerly Ryerson University).
 
 My natural curiosity and eagerness to explore new ideas drive me to constantly ask questions and seek answers. I enjoy diving deep into scientific literature, analyzing data, and conducting my own research to discover insights. My expertise spans both qualitative and quantitative research methodologies (see my projects), and I excel at producing high-quality, professional reports
 
