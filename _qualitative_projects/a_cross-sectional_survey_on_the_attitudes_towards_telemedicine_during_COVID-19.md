@@ -31,7 +31,7 @@ This is a descriptive cross-sectional study aiming at understanding peoples’ a
 While all of the respondents were in the University education group in terms of the level of education, 57.1% of them were male and 42.9% were female. Around 85.7% said that they used telemedicine service at least once during this pandemic and the frequency of use did not vary much by gender (Figure 2). <br/>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/80579c15-285a-4039-8284-228cc137ac7a/>
+  <img src="https://github.com/user-attachments/assets/80579c15-285a-4039-8284-228cc137ac7a"/>
 </p>
 
 Among the platforms used for receiving telemedicine care, the most common was the telephone (57.14%) followed by video conferencing through Zoom or Google Meet)(Figure 3). <br/>
