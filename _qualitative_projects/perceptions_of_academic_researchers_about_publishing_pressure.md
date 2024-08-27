@@ -1,6 +1,6 @@
 ---
 title: "Perceptions of Academic Researchers About Publishing Pressure: A Thematic Analysis"
-excerpt: "This study investigates the perceptions of UK academic researchers about the pressures of publishing in scientific journals. Using qualitative interviews from various career stages, it identifies key themes like funding, competition, impact factor, career progression, recognition, personality, and institutional factors. The findings highlight the complexities of publishing pressure and suggest the need for strategies to support researchers in managing these challenges.<br/><img src='/images/500x300.png'>"
+excerpt: "This study investigates the perceptions of UK academic researchers about the pressures of publishing in scientific journals. Using qualitative interviews from various career stages, it identifies key themes like funding, competition, impact factor, career progression, recognition, personality, and institutional factors. The findings highlight the complexities of publishing pressure and suggest the need for strategies to support researchers in managing these challenges.<br/>"
 collection: qualitative_projects
 
 ---
