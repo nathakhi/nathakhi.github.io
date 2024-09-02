@@ -1,6 +1,6 @@
 ---
 title: "Physicians' Evidence-Based Clinical Decision-Making Practices for New Drug Prescriptions: A Qualitative Study"
-excerpt: "This is my Master’s thesis. It is a qualitative study that explores the process of physicians’ evidence-based clinical decision-making for new drug prescriptions."
+excerpt: "Failure to use research evidence in decision-making contributes to the injudicious prescribing of drugs and the deprivation of recommended care for patients. This study explores how physicians make evidence-based clinical decisions when prescribing new drugs. Through eleven semi-structured interviews and thematic coding, the study found that physicians often rely on easily accessible, reliable sources such as medical websites due to time constraints at the point of care (POC). They also depend on pre-appraised information and expert knowledge from specialists and colleagues to support their clinical decisions."
 collection: qualitative_projects
 ---
 <br/>
