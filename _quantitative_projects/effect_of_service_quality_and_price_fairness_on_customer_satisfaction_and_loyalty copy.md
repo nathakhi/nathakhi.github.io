@@ -6,8 +6,11 @@ collection: quantitative_projects
 
 <b>Background:</b>  
 Modern days businesses are competitive. To survive as an organization over the years one must face the competition, offer quality services and products, ensure fair pricing, focus on continuous improvements, ensure customer satisfaction, and build a loyal customer base. The interaction between these two core issues, service quality and customer satisfaction, has received its due importance as a strategic component (Bolton & Drew, 1991; Landrum, Prybutok, & Zhang, 2010). It has been well-recognized in the research community that service quality indeed influences customer satisfaction and triggers customer loyalty (Hodkinson & Kiel, 2003; Wong & Sohal, 2003). Similarly, price fairness has been coined as an important antecedent of customer satisfaction and loyalty and researchers argued that price fairness has an effect on customers’ reactions and it is strategically important for companies while making price-related decisions (Hassan et al., 2013; Sinha & Batra, 1999). For ensuring service quality, measuring service quality reliably is of paramount importance and on that front SERVQUAL has been reliably used by many researchers (Landrum et al., 2010) in the restaurant industry (Banwet & Datta, 1999), in the context of the service industry (Pitt, Watson, & Kavan, 1997), and even in the context of cultural studies (Donthu & Yoo, 1998). Hence, the multitude of uses of the SERVQUAL service quality measurement scale validates its use for further research in a similar direction. In a similar research direction, this study aims to investigate how price fairness and service quality relates to customer satisfaction and customer loyalty. Three hypotheses were developed based on previous literature review:
+
 <b>Hypothesis 1 (H1)</b>: Service quality positively affects customer satisfaction.
+
 <b>Hypothesis 2 (H2)</b>: Price fairness positively affects customer satisfaction.
+
 <b>Hypothesis 3 (H3)</b>: Customer satisfaction positively affects customer loyalty.
 
 <p align="center">
@@ -112,6 +115,7 @@ Hassan, M., Hassan, S., Nawaz, M. S., & Aksel, I. (2013). Measuring customer sat
 loyalty through service fairness, service quality and price fairness perception: an
 empirical study of Pakistan Mobile telecommunication sector. Science International,
 25(4), 971-980.
+
 Herrmann, A., Xia, L., Monroe, K. B., & Huber, F. (2007). The influence of price fairness on
 customer satisfaction: an empirical test in the context of automobile purchases. Journal of
 Product & Brand Management, 16(1), 49–58.
