@@ -19,7 +19,9 @@ main:
     
   - title: "Quantitative Projects"
     url: /quantitative_projects/
-  
+
+  - title: "Data Visualization"
+    url: /visualization_projects/
         
   # - title: "Blog Posts"
   #  url: /year-archive/

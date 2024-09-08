@@ -228,6 +228,9 @@ collections:
   qualitative_projects:
     output: true
     permalink: /:collection/:path/
+  visualization_projects:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -280,7 +283,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-   # _quantitative_projects
+  # _quantitative_projects
   - scope:
       path: ""
       type: quantitative_projects
@@ -293,6 +296,15 @@ defaults:
   - scope:
       path: ""
       type: qualitative_projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _visualization_projects
+  - scope:
+      path: ""
+      type: visualization_projects
     values:
       layout: single
       author_profile: true

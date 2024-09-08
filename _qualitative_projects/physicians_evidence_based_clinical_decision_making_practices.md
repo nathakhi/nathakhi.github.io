@@ -3,11 +3,7 @@ title: "Physicians' Evidence-Based Clinical Decision-Making Practices for New Dr
 excerpt: "Failure to use research evidence in decision-making contributes to the injudicious prescribing of drugs and the deprivation of recommended care for patients. This study explores how physicians make evidence-based clinical decisions when prescribing new drugs. Through eleven semi-structured interviews and thematic coding, the study found that physicians often rely on easily accessible, reliable sources such as medical websites due to time constraints at the point of care (POC). They also depend on pre-appraised information and expert knowledge from specialists and colleagues to support their clinical decisions."
 collection: qualitative_projects
 ---
-<br/>
-<p>
-[The full paper can be accessed here](https://rshare.library.torontomu.ca/articles/thesis/Physicians_Evidence-Based_Clinical_Decision-Making_Practices_for_New_Drug_Prescriptions_A_Qualitative_Study/25968181/1?file=46814392)
-</p>
-<br/>
+<p style="text-decoration:underline;"><a href="https://rshare.library.torontomu.ca/articles/thesis/Physicians_Evidence-Based_Clinical_Decision-Making_Practices_for_New_Drug_Prescriptions_A_Qualitative_Study/25968181/1?file=46814392">The full paper can be accessed here</a></p>
 <b>BACKGROUND:</b>  
 There has been a long-standing gap between research and its application in practice, and despite efforts to promote evidence-based practice, this gap still exists (Graham et al., 2006). Failure to use research evidence in decision-making contributes to under-prescribing or overprescribing behaviors among physicians. This gap not only prevents patients from receiving optimal care but also results in the inefficient use of the billions of dollars invested in healthcare research annually. Therefore, it is crucial to increase the use of research evidence to support evidence-based prescribing decisions. However, effectively utilizing evidence at the point of care requires more than just passively disseminating research findings; it also needs active effort from practitioners to seek out and apply this evidence when making decisions (Straus et al., 2009).
 <p>
