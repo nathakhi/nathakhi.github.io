@@ -1,0 +1,94 @@
+---
+title: "Churn or Not: A Machine Learning Approach to Detect Churning Among Credit Card Customers"
+excerpt: "This project focused on predicting customer churn for a credit card service using machine learning techniques. A dataset of over 10,000 customers from Kaggle was analyzed, exploring attributes such as income, gender, and card usage patterns. After cleaning and preprocessing the data, multiple models including Logistic Regression, Decision Trees, and Random Forests were applied.
+The analysis revealed higher churn rates among women and customers in extreme income categories. The Random Forest model achieved the best performance with an accuracy of 96%. The project involved data-driven insights to address customer retention challenges.<br/>"
+collection: visulization_projects
+
+---
+<div class="content">
+    
+    <h2>Project Overview</h2>
+    <p>This project focused on predicting customer churn for a credit card service using machine learning techniques. A dataset of over 10,000 customers from Kaggle was analyzed, exploring various customer attributes such as income, gender, and card usage patterns. After cleaning and preprocessing the data, multiple models including Logistic Regression, Decision Trees, and Random Forests were applied.</p>
+
+    <h2>Problem Statement</h2>
+    <p>A bank manager was concerned with the increasing number of customers leaving their credit card services. The project aimed to predict which customers are prone to churn, based on customer and credit card consumption attributes, and reduce the churning proportion to less than 10% over the next six months.</p>
+
+    <h2>Data Description</h2>
+    <ul>
+        <li><strong>Source:</strong> Kaggle dataset</li>
+        <li><strong>Size:</strong> 10,127 customers</li>
+        <li><strong>Features:</strong> 21 columns, main features are Attrition Flag, Gender, Educational Level, Marital Status, Income Category, Card Category, Total Revolving Balance, Average Open to Buy, etc.</li>
+    </ul>
+
+    <h2>Methods: </h2>
+        <h3>Data Preprocessing:</h3>
+        <ul>
+            <li>Imported necessary libraries</li>
+            <li>Loaded and inspected the data</li>
+            <li>Handled missing values and duplicate entries</li>
+            <li>Removed irrelevant "Unknown" categories</li>
+            <li>Converted categorical variables to numerical values</li>
+            <li>Exported cleaned data with 7,081 rows and 21 columns</li>
+        </ul>
+
+        <h3>Exploratory Data Analysis (EDA)</h3>
+        <ul>
+            <li>Performed descriptive statistics on key variables</li>
+            <li>Visualized attrition by gender, income, marital status, and card category</li>
+            <li>Analyzed correlations between features like credit limit, utilization ratio, and attrition</li>
+        </ul>
+
+        <h3>Data Visualization</h3>
+        <ul>
+            <li>Using Tableau visualizing churn trends.</li>
+            <li>Plotting feature importance to understand which variables contribute the most to churn.</li>
+        </ul>
+        <p style="text-decoration:underline;"><a href="https://public.tableau.com/shared/4C9KQYZBD?:display_count=n&:origin=viz_share_link">See the dashboard in tableau public!</a></p>
+        <div class='tableauPlaceholder' id='viz1725842028531' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;4C&#47;4C9KQYZBD&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;4C9KQYZBD' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;4C&#47;4C9KQYZBD&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1725842028531');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.minWidth='1016px';vizElement.style.maxWidth='100%';vizElement.style.minHeight='1014px';vizElement.style.maxHeight=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='1016px';vizElement.style.maxWidth='100%';vizElement.style.minHeight='1014px';vizElement.style.maxHeight=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.minWidth='1016px';vizElement.style.maxWidth='100%';vizElement.style.minHeight='1250px';vizElement.style.maxHeight=(divElement.offsetWidth*1.77)+'px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+        <h3>Hypothesis Testing</h3>
+        <ul>
+            <li><strong>H0 = </strong>There is no difference in attrition between men and women</li>
+            <li><strong>HA = </strong>There is difference in attrition between men and women</li>
+            <li><strong>Test: </strong>Chi-square Test of Homogeneity</li>
+            <li><strong>Chi-Square Statistic: </strong>8.8523959</li>
+            <li><strong>P-value: </strong>0.003 (<0.05)</li>
+            <li><strong>Conclusion: </strong>Reject the Null hypothesis</li>
+        </ul>
+
+        <h3>Machine Learning Models</h3>
+        <ul>
+            <li>Data split into training and testing sets (80/20)</li>
+            <li>Features selected using Mutual Information Gain</li>
+            <li>Feature scaling (Standardization) applied</li>
+            <li>Trained multiple models: Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors, Artificial Neural Network</li>
+        </ul>
+
+        <h3>Model Performance Comparison</h3>
+        <ul>
+            <li>Use metrics like <strong>Accuracy, Precision, Recall</strong>, and <strong>F1-Score</strong> to evaluate model performance.</li>
+            <li>The Random Forest model performed best with an accuracy of 96%, precision of 0.75, recall of 0.79, and F1-score of 0.77.</li>
+        </ul>
+       
+    <h2>Summary of Findings</h2>
+    <ul>
+        <li>The attrition rate was higher among customers in the extreme income categories (&lt; $40k: 16.94% and &gt; $120k: 17.83%).</li>
+        <li>Women had a 2.58% higher attrition rate compared to men.</li>
+        <li>Platinum card holders had the highest attrition rate at 27.27%.</li>
+        <li>Random Forest Classifier can better classify the customers who are going to get churned (Accuracy 96%).</li>
+        
+    </ul>
+
+    <h2>Limitations</h2>
+    <ul>
+        <li>Imbalanced dataset (15.72% attrited customers).</li>
+        <li>No hyperparameter tuning was applied to models.</li>
+        <li>Weak correlation between most features and the target variable.</li>
+    </ul>
+
+    <h2>References</h2>
+    <ul>
+        <li>Data source: <a href="https://www.kaggle.com/sakshigoyal7/credit-card-customers" target="_blank">Kaggle - Credit Card Customers</a></li>
+        <li>Related project: <a href="https://www.kaggle.com/winternguyen/churning-customers-98-95-detected" target="_blank">Kaggle - Churning Customers</a></li>
+    </ul>
+</div>
