@@ -3,6 +3,8 @@ title: "Do Rich People Sleep in Peace?"
 excerpt: "This study investigates the relationship between income and sleep quality using data from the Canadian Community Health Survey (2017-18). The analysis explores whether income independently affects sleep quality and how self-reported health status might mediate this association. Results indicate that income is significantly related to sleep quality. While higher-income groups are generally less likely to experience sleep problems compared to lower-income groups, adjusting for other factors reveals that even those in the highest income group can have increased odds of trouble sleeping. Health status was found to fully mediate the relationship between income and sleep quality for lower-income groups, suggesting that socioeconomically disadvantaged individuals may experience poorer sleep due to poorer health.<br/>"
 collection: quantitative_projects
 ---
+<p style="text-decoration:underline;"><a href="https://github.com/nathakhi/nathakhi.github.io/blob/master/files/do_rich_people_sleep_in_peace.pdf">The full paper can be accessed here</a></p>
+
 <b>BACKGROUND:</b>  
 Sleep is undoubtedly an inevitable part of our life. Despite an abundance of literature on sleep and its determinants and influencing factors, little has been explored on the independent association of sleep with income. The purpose of this study was twofold- i) to examine the relation of income with sleep quality and ii) the role of self-reported health status in explaining the socioeconomic differences in sleep.
 
